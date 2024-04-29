@@ -7,7 +7,7 @@ include_in_header: false
 # Terms of Use
 Although all the clauses contained in this agreement are standard clauses about software products, it is advised that you read them entirely.
 
-This End-User License Agreement ("EULA") constitutes an agreement between you and Hermes (herein referred to as the "Owner") with regard to the Hermes application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
+This End-User License Agreement ("EULA") constitutes an agreement between you and RC report (herein referred to as the "Owner") with regard to the Hermes application for Mobile Phones (herein referred to as "Software Product" or "Software"). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
 
 Your use of the Software (as specified below) is subject to the terms and conditions set forth in this EULA. If you do not accept the terms of this EULA, do not install or use the Software.
 
